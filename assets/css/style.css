@@ -1,5 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"');
 
-.container {
-    background-color: red;
-} 
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+/*----hero img Start----*/
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/Indian_food2.jpg') no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+/*----hero img End----*/
