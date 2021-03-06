@@ -50,6 +50,8 @@ Third page is containing customers reviews and on the footer containing social m
 ![Gallery wireframe](/assets/images/1hack.PNG)
 
 ##images
-Indian-food 3
+Indian-food 1&3
 Photo by Chan Walrus from Pexels
-Taken from Pexels.com
+Indian Food 2
+Photo by Marvin Ozz from Pexels
+All photos from Pexels.com
