@@ -5,6 +5,78 @@
     padding:0;
     border:0;
 }
+
+.reviews{
+    width: 90%;
+}
+
+.box-shadow{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand{
+    padding-left: 10%;
+}
+
+.navbar-right{
+    padding-right: 5%;
+}
+
+.logo{
+    margin: 0 auto;
+}
+
+.logo-menu {
+    text-align: center;
+    justify-content: center;
+
+    position: relative;
+
+}
+
+.navbar{
+    margin:0;
+    padding:0;
+    border:0;
+    max-height: 80px;
+}
+
+.tidy-nav{
+    padding:0 5%;
+}
+
+.container-fluid
+{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.list-inline
+{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.jumbotron{
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+hr{
+    border: 2px solid white;
+}
+
+
+/*----Logo img Start----*/
+.bg-color{
+    background-color: #F8E8D8;
+}
+/*----Logo img End----*/
+
+
 /*----hero img Start----*/
 .callout-container {
     height: 100vh;
@@ -31,3 +103,33 @@
     background-color: rgba(0, 0, 0, 0.2);
 }
 /*----hero img End----*/
+
+/*----Footer----*/
+footer{
+    padding-bottom: 10px;
+}
+.list-inline-item i{
+   font-size: 50px;
+    margin: 0 auto;
+    color:#fd7e14;
+    max-width: height 80px;
+}
+.list-inline li{
+    padding-left: 35px;
+}
+
+.here {
+    font-weight: bold;
+    color: #fff;
+}
+
+.footer-style{
+    padding: 10px;
+}
+
+
+@media screen and (max-width: 1000px){
+	.logo{
+		display: none;
+	}
+}
