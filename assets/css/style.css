@@ -27,13 +27,6 @@ body{
     border:0;
 }
 
-.list-inline
-{
-    margin:0;
-    padding:0;
-    border:0;
-}
-
 /* Jumbotron */
 
 .jumbotron {
@@ -94,6 +87,12 @@ hr{
 /*----Footer----*/
 footer{
     padding-bottom: 10px;
+}
+.list-inline
+{
+    margin:0;
+    padding:0;
+    border:0;
 }
 .list-inline-item i{
    font-size: 50px;
